@@ -4,6 +4,6 @@
 <steps>1:Проверить отображение элементов хедера главной страницы</steps>
 <expectationResult>Все элементы и кнопки хедера корректно отображаются согласно скриншоту кейса</expectationResult>
 <actualResult>После перехода на стенд ломается верстка хедера - сэндвич-кнопка частично перекрывает кнопку поиска города</actualResult>
-<environment>Xiaomi Redmi7A Android 9  &&  Яндекс.Браузер версия 25.012.1, сборка 18</environment>
+<environment>Xiaomi Redmi7A Android 9  Яндекс.Браузер версия 25.012.1, сборка 18</environment>
 <testStand>https://testing.yandex.ru/pogoda/</testStand>
 <screenshotOrVideo>https://disk.yandex.ru/bugs/band06-05-22</screenshotOrVideo>
